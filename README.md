@@ -39,4 +39,5 @@ Escolha 2 das perguntas que você listou e construa uma resposta para as duas em
 
 ## Entrega
 
-Você deve usar o relatorio.Rmd como template inicial para desenvolver suas análises. Crie um branch separada para a sua análise, vá fazendo commits incrementais e, ao final, faça um Pull Request para a master.
+Você deve usar o relatorio.Rmd como template inicial para desenvolver suas análises. Crie um branch separada para a sua análise, vá fazendo commits incrementais e, ao final, faça um Pull Request para a master tanto do Rmd quanto do HTML gerado. Envie também o HTML para na atividade do Google Classroom.
+
