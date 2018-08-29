@@ -1,6 +1,6 @@
 # Atividade de laboratório sobre inferência estatística
 
-- Créditos: Profs. Nazareno Andrade (UFCG)
+- Créditos: Prof. Nazareno Andrade (UFCG)
 
 Nesta atividade, nós usaremos uma amostra de dados da atividade global do github. Os dados brutos contêm a contagem de quantas pessoas editaram arquivos com cada extensão de arquivo em cada dia de 2016 e 2017 no github. Não temos dados de todos os repositórios nem de todos os usuários, portanto estamos trabalhando com uma amostra e queremos fazer inferência sobre a população.
 
